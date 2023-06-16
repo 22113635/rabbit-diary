@@ -2,8 +2,8 @@
 
 # 개발 환경 : android studio flamingo 2022.2.1 / window 11
 
-# 1. 압축을 해제한 rabbit-diary-1 폴더를 
-# Documents\android\rabbit-diary-1 경로로 이동 및 경로를 복사 해준다.
+# 1. 압축해제한 rabbit-diary-1 프로젝트를 
+# Documents\android\rabbit-diary-1 경로에 포함 및 경로 복사.
 
 # 2. android studio flamingo 2022.2.1 버전을 설치 및 실행
 
@@ -15,4 +15,6 @@
 
 
 # run 버튼이 비활성화일시 gradle이 과정1의 경로에 포함되어있는지 확인한다.
+
+
 
